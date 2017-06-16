@@ -69,7 +69,7 @@ setup(
     author="Marius Killinger",
     author_email="Marius.Killinger@mailbox.org",
     description="ELEKTRONN2 a is highly configurable toolkit for training 3d/2d CNNs and general Neural Networks",
-    long_description=read('README.rst'),
+    long_description="ELEKTRONN2 a is highly configurable toolkit for training 3d/2d CNNs and general Neural Networks",
     license="GPL",
     keywords="cnn theano neural network machine learning classification",
     url="http://www.elektronn.org/",
